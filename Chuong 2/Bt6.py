@@ -8,4 +8,4 @@ ThucLinh=round(Luong-e,1)
 print('Nhan vien',a,end=", ")
 print('Co tien luong=',Luong,sep="",end=", ")
 print('Tam ung=',e," va",sep="",end=" ")
-print('Thuc linh=',ThucLinh,sep="")
+
