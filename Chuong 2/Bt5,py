@@ -1,0 +1,5 @@
+T=float(input())
+n=int(input())
+k=int(input())
+m=n*(1+k*T)
+print('Thi so tien nhan duoc cuoi ky la:',m)
